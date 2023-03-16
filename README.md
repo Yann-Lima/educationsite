@@ -22,7 +22,7 @@ https://yann-lima.github.io/educationsite/
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](<img src="images/education.png" alt="">)
 
 
 ## Deployment
